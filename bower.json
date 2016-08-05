@@ -1,0 +1,17 @@
+{
+  "name": "AngularEstudo",
+  "homepage": "https://github.com/zapcriativo/AngularEstudo",
+  "authors": [
+    "Alan Ribeiro <zapcriativo@gmail.com>"
+  ],
+  "description": "Estudo de Angular com NPM Gulp e Sass",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
