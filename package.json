@@ -1,0 +1,19 @@
+{
+  "name": "angularestudo",
+  "version": "1.0.0",
+  "description": "Estudo de Angular + Git + Gulp + Npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zapcriativo/AngularEstudo.git"
+  },
+  "author": "Alan Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zapcriativo/AngularEstudo/issues"
+  },
+  "homepage": "https://github.com/zapcriativo/AngularEstudo#readme"
+}
